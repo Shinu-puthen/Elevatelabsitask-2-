@@ -1,5 +1,4 @@
-# Power BI Sales Dashboard
-
+#  Task-2 Data Visualisation and Storytelling
 
 ## Overview
 This repository contains a Power BI dashboard for visualizing sales analytics data. The dashboard provides key insights into total revenue, sales quantity, performance trends, and top customers/products across multiple years[attached_image:1].
