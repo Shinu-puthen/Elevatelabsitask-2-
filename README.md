@@ -20,7 +20,7 @@ This repository contains a Power BI dashboard for visualizing sales analytics da
 3. Use filter controls for year and month to review sales trends and analyze business performance.
 
 ## Screenshot
-Refer to the above image for a sample dashboard view[attached_image:1].
+Refer to the above image for a sample dashboard view
 
 ## Author
 puthenshinu@gmail.com
